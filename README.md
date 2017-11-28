@@ -1,4 +1,4 @@
 change SSID and PASSWORD:
 
-		const char* ssid = "nanosound";
-		const char* password = "nanosound";
+		const char* ssid = "...";
+		const char* password = "...";
